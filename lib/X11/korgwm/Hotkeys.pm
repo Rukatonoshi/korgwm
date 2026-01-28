@@ -27,6 +27,7 @@ my $keys = {
     "XF86AudioPrev"         => 0x1008FF16,
     "XF86AudioNext"         => 0x1008FF17,
     "XF86WakeUp"            => 0x1008FF2B,
+    "XF86AudioPause"        => 0x1008FF31,
 };
 
 # xcb modifiers
